@@ -13,7 +13,7 @@ img{
 h1{
   color: red;
   font-family: cursive;
-  font-weight: 500;
+  font-weight: 200;
   text-align: center;
   text-decoration: underline;
 }
@@ -32,7 +32,7 @@ a{
 }
 
 #welcome{
-  color: green;
+  color: black;
 }
 
 .favlist{
@@ -44,7 +44,7 @@ a{
   background-color: red;
 }
 #div2{
-  background-color: blue;
+  background-color: white;
 }
 #div1, #div2 {
   border: dashed;
